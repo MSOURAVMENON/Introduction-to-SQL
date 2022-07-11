@@ -1,0 +1,524 @@
+PRAGMA foreign_keys = '1';
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+PRAGMA encoding;
+PRAGMA collation_list;
+SAVEPOINT "db4s_edittable_16575297652227434";
+SAVEPOINT "RESTOREPOINT";
+CREATE TABLE "COMPANY" (
+	"ID"	INTEGER,
+	"NAME"	TEXT,
+	"AGE "	INTEGER,
+	"ADDRESS"	TEXT,
+	"SALARY"	INTEGER
+);
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+PRAGMA collation_list;
+SAVEPOINT "db4s_edittable_16575298319419294";
+ROLLBACK TO SAVEPOINT "db4s_edittable_16575298319419294";
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+RELEASE "db4s_edittable_16575298319419294";
+PRAGMA foreign_keys;
+RELEASE "db4s_edittable_16575297652227434";
+PRAGMA foreign_keys = '0';
+PRAGMA collation_list;
+SAVEPOINT "db4s_edittable_16575298697094525";
+PRAGMA "main".foreign_key_check
+RELEASE "db4s_edittable_16575298697094525";
+PRAGMA foreign_keys = '1';
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+SELECT COUNT(*) FROM "main"."COMPANY"
+SELECT "_rowid_",* FROM "main"."COMPANY" LIMIT 0, 49999;
+SAVEPOINT "RESTOREPOINT";
+ROLLBACK TO SAVEPOINT "RESTOREPOINT";
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+RELEASE "RESTOREPOINT";
+SAVEPOINT "RESTOREPOINT";
+ROLLBACK TO SAVEPOINT "RESTOREPOINT";
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+RELEASE "RESTOREPOINT";
+PRAGMA foreign_keys;
+PRAGMA foreign_keys = '0';
+PRAGMA collation_list;
+SAVEPOINT "db4s_edittable_16575299935127663";
+PRAGMA "main".foreign_key_check
+RELEASE "db4s_edittable_16575299935127663";
+PRAGMA foreign_keys = '1';
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+SELECT "_rowid_",* FROM "main"."COMPANY" LIMIT 0, 49999;
+SELECT COUNT(*) FROM "main"."COMPANY"
+SAVEPOINT "RESTOREPOINT";
+ROLLBACK TO SAVEPOINT "RESTOREPOINT";
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+RELEASE "RESTOREPOINT";
+SAVEPOINT "RESTOREPOINT";
+ROLLBACK TO SAVEPOINT "RESTOREPOINT";
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+RELEASE "RESTOREPOINT";
+SAVEPOINT "RESTOREPOINT";
+ROLLBACK TO SAVEPOINT "RESTOREPOINT";
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+RELEASE "RESTOREPOINT";
+SAVEPOINT "RESTOREPOINT";
+ROLLBACK TO SAVEPOINT "RESTOREPOINT";
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+RELEASE "RESTOREPOINT";
+SAVEPOINT "RESTOREPOINT";
+ROLLBACK TO SAVEPOINT "RESTOREPOINT";
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+RELEASE "RESTOREPOINT";
+SAVEPOINT "RESTOREPOINT";
+ROLLBACK TO SAVEPOINT "RESTOREPOINT";
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+RELEASE "RESTOREPOINT";
+SAVEPOINT "RESTOREPOINT";
+ROLLBACK TO SAVEPOINT "RESTOREPOINT";
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+RELEASE "RESTOREPOINT";
+SAVEPOINT "RESTOREPOINT";
+ROLLBACK TO SAVEPOINT "RESTOREPOINT";
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+RELEASE "RESTOREPOINT";
+SAVEPOINT "RESTOREPOINT";
+ROLLBACK TO SAVEPOINT "RESTOREPOINT";
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+RELEASE "RESTOREPOINT";
+SAVEPOINT "RESTOREPOINT";
+ROLLBACK TO SAVEPOINT "RESTOREPOINT";
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+RELEASE "RESTOREPOINT";
+SAVEPOINT "RESTOREPOINT";
+ROLLBACK TO SAVEPOINT "RESTOREPOINT";
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+RELEASE "RESTOREPOINT";
+SAVEPOINT "RESTOREPOINT";
+ROLLBACK TO SAVEPOINT "RESTOREPOINT";
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+RELEASE "RESTOREPOINT";
+SAVEPOINT "RESTOREPOINT";
+ROLLBACK TO SAVEPOINT "RESTOREPOINT";
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+RELEASE "RESTOREPOINT";
+SAVEPOINT "RESTOREPOINT";
+ROLLBACK TO SAVEPOINT "RESTOREPOINT";
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+RELEASE "RESTOREPOINT";
+SAVEPOINT "RESTOREPOINT";
+ROLLBACK TO SAVEPOINT "RESTOREPOINT";
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+RELEASE "RESTOREPOINT";
+SAVEPOINT "RESTOREPOINT";
+ROLLBACK TO SAVEPOINT "RESTOREPOINT";
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+RELEASE "RESTOREPOINT";
+SAVEPOINT "RESTOREPOINT";
+ROLLBACK TO SAVEPOINT "RESTOREPOINT";
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+RELEASE "RESTOREPOINT";
+SAVEPOINT "RESTOREPOINT";
+ROLLBACK TO SAVEPOINT "RESTOREPOINT";
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+RELEASE "RESTOREPOINT";
+SAVEPOINT "RESTOREPOINT";
+ROLLBACK TO SAVEPOINT "RESTOREPOINT";
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+RELEASE "RESTOREPOINT";
+SAVEPOINT "RESTOREPOINT";
+ROLLBACK TO SAVEPOINT "RESTOREPOINT";
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+RELEASE "RESTOREPOINT";
+SAVEPOINT "RESTOREPOINT";
+ROLLBACK TO SAVEPOINT "RESTOREPOINT";
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+RELEASE "RESTOREPOINT";
+SAVEPOINT "RESTOREPOINT";
+ROLLBACK TO SAVEPOINT "RESTOREPOINT";
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+RELEASE "RESTOREPOINT";
+SAVEPOINT "RESTOREPOINT";
+ROLLBACK TO SAVEPOINT "RESTOREPOINT";
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+RELEASE "RESTOREPOINT";
+SAVEPOINT "RESTOREPOINT";
+ROLLBACK TO SAVEPOINT "RESTOREPOINT";
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+RELEASE "RESTOREPOINT";
+SAVEPOINT "RESTOREPOINT";
+ROLLBACK TO SAVEPOINT "RESTOREPOINT";
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+RELEASE "RESTOREPOINT";
+SAVEPOINT "RESTOREPOINT";
+ROLLBACK TO SAVEPOINT "RESTOREPOINT";
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+RELEASE "RESTOREPOINT";
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+SELECT COUNT(*) FROM "main"."COMPANY"
+SELECT "_rowid_",* FROM "main"."COMPANY" LIMIT 0, 49999;
+PRAGMA auto_vacuum;
+PRAGMA automatic_index;
+PRAGMA checkpoint_fullfsync;
+PRAGMA foreign_keys;
+PRAGMA fullfsync;
+PRAGMA ignore_check_constraints;
+PRAGMA journal_mode;
+PRAGMA journal_size_limit;
+PRAGMA locking_mode;
+PRAGMA max_page_count;
+PRAGMA page_size;
+PRAGMA recursive_triggers;
+PRAGMA secure_delete;
+PRAGMA synchronous;
+PRAGMA temp_store;
+PRAGMA user_version;
+PRAGMA wal_autocheckpoint;
+SELECT 'x' NOT LIKE 'X';
+PRAGMA foreign_keys;
+PRAGMA foreign_keys = '0';
+PRAGMA collation_list;
+SAVEPOINT "db4s_edittable_16575301055393616";
+PRAGMA "main".foreign_key_check
+RELEASE "db4s_edittable_16575301055393616";
+PRAGMA foreign_keys = '1';
+SAVEPOINT "RESTOREPOINT";
+ROLLBACK TO SAVEPOINT "RESTOREPOINT";
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+RELEASE "RESTOREPOINT";
+PRAGMA auto_vacuum;
+PRAGMA automatic_index;
+PRAGMA checkpoint_fullfsync;
+PRAGMA foreign_keys;
+PRAGMA fullfsync;
+PRAGMA ignore_check_constraints;
+PRAGMA journal_mode;
+PRAGMA journal_size_limit;
+PRAGMA locking_mode;
+PRAGMA max_page_count;
+PRAGMA page_size;
+PRAGMA recursive_triggers;
+PRAGMA secure_delete;
+PRAGMA synchronous;
+PRAGMA temp_store;
+PRAGMA user_version;
+PRAGMA wal_autocheckpoint;
+SELECT 'x' NOT LIKE 'X';
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+SELECT COUNT(*) FROM "main"."COMPANY"
+SELECT "_rowid_",* FROM "main"."COMPANY" LIMIT 0, 49999;
+PRAGMA foreign_keys;
+PRAGMA foreign_keys = '0';
+PRAGMA collation_list;
+SAVEPOINT "db4s_edittable_16575301302753723";
+SAVEPOINT "db4s_renamecolumn_16575301549397040";
+SAVEPOINT "RESTOREPOINT";
+ALTER TABLE "main"."COMPANY" ADD COLUMN 	"AGE"	INTEGER
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+CREATE TABLE "sqlb_temp_table_1" (
+	"ID"	INTEGER,
+	"NAME"	TEXT,
+	"AGE"	INTEGER,
+	"ADDRESS"	TEXT,
+	"SALARY"	INTEGER
+);
+INSERT INTO "main"."sqlb_temp_table_1" ("ADDRESS","ID","NAME","SALARY") SELECT "ADDRESS","ID","NAME","SALARY" FROM "main"."COMPANY"
+PRAGMA defer_foreign_keys;
+PRAGMA defer_foreign_keys = '1';
+DROP TABLE "main"."COMPANY"
+ALTER TABLE "main"."sqlb_temp_table_1" RENAME TO "COMPANY"
+PRAGMA defer_foreign_keys = '0';
+RELEASE "db4s_renamecolumn_16575301549397040";
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+SELECT type,name,sql,tbl_name FROM sqlite_temp_master;
+PRAGMA "main".foreign_key_check
+RELEASE "db4s_edittable_16575301302753723";
+PRAGMA foreign_keys = '1';
+SAVEPOINT "RESTOREPOINT";
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+SELECT type,name,sql,tbl_name FROM sqlite_temp_master;
+SELECT COUNT(*) FROM "main"."COMPANY"
+SELECT "_rowid_",* FROM "main"."COMPANY" LIMIT 0, 49999;
+SELECT COUNT(*) FROM (SELECT * FROM COMPANY WHERE AGE >=25
+AND SALARY >= 65000);
+SELECT * FROM COMPANY WHERE AGE >=25
+AND SALARY >= 65000 LIMIT 0, 49999;
+SELECT COUNT(*) FROM (SELECT * FROM COMPANY WHERE AGE >=25
+AND SALARY >= 65000);
+SELECT * FROM COMPANY WHERE AGE >=25
+AND SALARY >= 65000 LIMIT 0, 49999;
+SELECT COUNT(*) FROM (SELECT * FROM COMPANY WHERE AGE >=36
+AND SALARY >= 45000);
+SELECT * FROM COMPANY WHERE AGE >=36
+AND SALARY >= 45000 LIMIT 0, 49999;
+SELECT COUNT(*) FROM (SELECT * FROM COMPANY WHERE AGE >=25
+AND SALARY >= 65000);
+SELECT * FROM COMPANY WHERE AGE >=25
+AND SALARY >= 65000 LIMIT 0, 49999;
+SELECT COUNT(*) FROM (SELECT * FROM COMPANY WHERE AGE >=36
+AND SALARY >= 45000);
+SELECT * FROM COMPANY WHERE AGE >=36
+AND SALARY >= 45000 LIMIT 0, 49999;
+SELECT COUNT(*) FROM (SELECT * FROM COMPANY WHERE AGE >=25
+AND SALARY >= 65000);
+SELECT * FROM COMPANY WHERE AGE >=25
+AND SALARY >= 65000 LIMIT 0, 49999;
+SELECT COUNT(*) FROM (SELECT * FROM COMPANY WHERE AGE >=36
+AND SALARY >= 45000);
+SELECT * FROM COMPANY WHERE AGE >=36
+AND SALARY >= 45000 LIMIT 0, 49999;
+SELECT COUNT(*) FROM (SELECT * FROM COMPANY WHERE AGE >=25
+AND SALARY >= 65000);
+SELECT * FROM COMPANY WHERE AGE >=25
+AND SALARY >= 65000 LIMIT 0, 49999;
+SELECT COUNT(*) FROM (SELECT * FROM COMPANY WHERE AGE >=36
+AND SALARY >= 45000);
+SELECT * FROM COMPANY WHERE AGE >=36
+AND SALARY >= 45000 LIMIT 0, 49999;
+SELECT COUNT(*) FROM (SELECT * FROM COMPANY WHERE AGE >=25
+AND SALARY >= 65000);
+SELECT * FROM COMPANY WHERE AGE >=25
+AND SALARY >= 65000 LIMIT 0, 49999;
+SELECT COUNT(*) FROM (SELECT * FROM COMPANY WHERE AGE >=36
+AND SALARY >= 45000);
+SELECT * FROM COMPANY WHERE AGE >=36
+AND SALARY >= 45000 LIMIT 0, 49999;
+SELECT COUNT(*) FROM (SELECT * FROM COMPANY WHERE AGE >=25
+AND SALARY >= 65000);
+SELECT * FROM COMPANY WHERE AGE >=25
+AND SALARY >= 65000 LIMIT 0, 49999;
+SELECT COUNT(*) FROM (SELECT * FROM COMPANY WHERE AGE >=36
+AND SALARY >= 45000);
+SELECT * FROM COMPANY WHERE AGE >=36
+AND SALARY >= 45000 LIMIT 0, 49999;
+SELECT COUNT(*) FROM (SELECT * FROM COMPANY WHERE AGE >=25
+AND SALARY >= 65000);
+SELECT * FROM COMPANY WHERE AGE >=25
+AND SALARY >= 65000 LIMIT 0, 49999;
+SELECT COUNT(*) FROM (SELECT * FROM COMPANY WHERE AGE >=36
+AND SALARY >= 45000);
+SELECT * FROM COMPANY WHERE AGE >=36
+AND SALARY >= 45000 LIMIT 0, 49999;
+SELECT COUNT(*) FROM (SELECT * FROM COMPANY WHERE AGE >=25
+AND SALARY >= 65000);
+SELECT * FROM COMPANY WHERE AGE >=25
+AND SALARY >= 65000 LIMIT 0, 49999;
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+SELECT type,name,sql,tbl_name FROM sqlite_temp_master;
+SELECT COUNT(*) FROM "main"."COMPANY"
+SELECT "_rowid_",* FROM "main"."COMPANY" LIMIT 0, 49999;
+SELECT COUNT(*) FROM (SELECT * FROM COMPANY WHERE AGE >=25
+AND SALARY >= 65000);
+SELECT * FROM COMPANY WHERE AGE >=25
+AND SALARY >= 65000 LIMIT 0, 49999;
+SELECT COUNT(*) FROM (SELECT * FROM COMPANY WHERE AGE >=25
+AND SALARY >= 65000);
+SELECT * FROM COMPANY WHERE AGE >=25
+AND SALARY >= 65000 LIMIT 0, 49999;
+SELECT COUNT(*) FROM (SELECT * FROM COMPANY WHERE AGE >=25
+AND SALARY >= 65000);
+SELECT * FROM COMPANY WHERE AGE >=25
+AND SALARY >= 65000 LIMIT 0, 49999;
+SELECT COUNT(*) FROM (SELECT * FROM COMPANY WHERE AGE >=25
+AND SALARY >= 65000);
+SELECT * FROM COMPANY WHERE AGE >=25
+AND SALARY >= 65000 LIMIT 0, 49999;
+SELECT COUNT(*) FROM (SELECT * FROM COMPANY WHERE AGE >=25
+AND SALARY >= 65000);
+SELECT * FROM COMPANY WHERE AGE >=25
+AND SALARY >= 65000 LIMIT 0, 49999;
+SELECT COUNT(*) FROM (SELECT * FROM COMPANY WHERE AGE >=25
+AND SALARY >= 65000);
+SELECT * FROM COMPANY WHERE AGE >=25
+AND SALARY >= 65000 LIMIT 0, 49999;
+SELECT COUNT(*) FROM (SELECT * FROM COMPANY WHERE AGE >=25
+AND SALARY >= 65000);
+SELECT * FROM COMPANY WHERE AGE >=25
+AND SALARY >= 65000 LIMIT 0, 49999;
+SELECT COUNT(*) FROM (SELECT * FROM COMPANY WHERE AGE >=25
+AND SALARY >= 65000);
+SELECT * FROM COMPANY WHERE AGE >=25
+AND SALARY >= 65000 LIMIT 0, 49999;
+SELECT COUNT(*) FROM (SELECT * FROM COMPANY WHERE AGE >=25
+AND SALARY >= 65000);
+SELECT * FROM COMPANY WHERE AGE >=25
+AND SALARY >= 65000 LIMIT 0, 49999;
+SELECT COUNT(*) FROM (SELECT * FROM COMPANY WHERE AGE >=25
+AND SALARY >= 65000);
+SELECT * FROM COMPANY WHERE AGE >=25
+AND SALARY >= 65000 LIMIT 0, 49999;
+SELECT COUNT(*) FROM (SELECT * FROM COMPANY WHERE AGE >=25
+AND SALARY >= 65000);
+SELECT * FROM COMPANY WHERE AGE >=25
+AND SALARY >= 65000 LIMIT 0, 49999;
+SELECT COUNT(*) FROM (SELECT * FROM COMPANY WHERE AGE >=25
+AND SALARY >= 65000);
+SELECT * FROM COMPANY WHERE AGE >=25
+AND SALARY >= 65000 LIMIT 0, 49999;
+SELECT COUNT(*) FROM (SELECT * FROM COMPANY WHERE NAME LIKE 'KI%');
+SELECT * FROM COMPANY WHERE NAME LIKE 'KI%' LIMIT 0, 49999;
+SELECT COUNT(*) FROM (SELECT * FROM COMPANY WHERE AGE IN ( 25,27));
+SELECT * FROM COMPANY WHERE AGE IN ( 25,27) LIMIT 0, 49999;
+SELECT COUNT(*) FROM (SELECT * FROM COMPANY WHERE AGE IN ( 25,26));
+SELECT * FROM COMPANY WHERE AGE IN ( 25,26) LIMIT 0, 49999;
+SELECT COUNT(*) FROM (SELECT * FROM COMPANY WHERE AGE NOT IN ( 25,26));
+SELECT * FROM COMPANY WHERE AGE NOT IN ( 25,26) LIMIT 0, 49999;
+SELECT COUNT(*) FROM (SELECT * FROM COMPANY WHERE AGE BETWEEN 25 AND 27);
+SELECT * FROM COMPANY WHERE AGE BETWEEN 25 AND 27 LIMIT 0, 49999;
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+SELECT type,name,sql,tbl_name FROM sqlite_temp_master;
+SELECT COUNT(*) FROM "main"."COMPANY"
+SELECT "_rowid_",* FROM "main"."COMPANY" LIMIT 0, 49999;
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+SELECT type,name,sql,tbl_name FROM sqlite_temp_master;
+SELECT COUNT(*) FROM "main"."COMPANY"
+SELECT "_rowid_",* FROM "main"."COMPANY" LIMIT 0, 49999;
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+SELECT type,name,sql,tbl_name FROM sqlite_temp_master;
+SELECT COUNT(*) FROM "main"."COMPANY"
+SELECT "_rowid_",* FROM "main"."COMPANY" LIMIT 0, 49999;
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+SELECT type,name,sql,tbl_name FROM sqlite_temp_master;
+SELECT COUNT(*) FROM "main"."COMPANY"
+SELECT "_rowid_",* FROM "main"."COMPANY" LIMIT 0, 49999;
+PRAGMA auto_vacuum;
+PRAGMA automatic_index;
+PRAGMA checkpoint_fullfsync;
+PRAGMA foreign_keys;
+PRAGMA fullfsync;
+PRAGMA ignore_check_constraints;
+PRAGMA journal_mode;
+PRAGMA journal_size_limit;
+PRAGMA locking_mode;
+PRAGMA max_page_count;
+PRAGMA page_size;
+PRAGMA recursive_triggers;
+PRAGMA secure_delete;
+PRAGMA synchronous;
+PRAGMA temp_store;
+PRAGMA user_version;
+PRAGMA wal_autocheckpoint;
+SELECT 'x' NOT LIKE 'X';
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+SELECT type,name,sql,tbl_name FROM sqlite_temp_master;
+SELECT COUNT(*) FROM "main"."COMPANY"
+SELECT "_rowid_",* FROM "main"."COMPANY" LIMIT 0, 49999;
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+SELECT type,name,sql,tbl_name FROM sqlite_temp_master;
+SELECT COUNT(*) FROM "main"."COMPANY"
+SELECT "_rowid_",* FROM "main"."COMPANY" LIMIT 0, 49999;
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+SELECT type,name,sql,tbl_name FROM sqlite_temp_master;
+SELECT COUNT(*) FROM "main"."COMPANY"
+SELECT "_rowid_",* FROM "main"."COMPANY" LIMIT 0, 49999;
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+SELECT type,name,sql,tbl_name FROM sqlite_temp_master;
+SELECT COUNT(*) FROM "main"."COMPANY"
+SELECT "_rowid_",* FROM "main"."COMPANY" LIMIT 0, 49999;
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+SELECT type,name,sql,tbl_name FROM sqlite_temp_master;
+SELECT COUNT(*) FROM "main"."COMPANY"
+SELECT "_rowid_",* FROM "main"."COMPANY" LIMIT 0, 49999;
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+SELECT type,name,sql,tbl_name FROM sqlite_temp_master;
+SELECT COUNT(*) FROM "main"."COMPANY"
+SELECT "_rowid_",* FROM "main"."COMPANY" LIMIT 0, 49999;
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+SELECT type,name,sql,tbl_name FROM sqlite_temp_master;
+SELECT COUNT(*) FROM "main"."COMPANY"
+SELECT "_rowid_",* FROM "main"."COMPANY" LIMIT 0, 49999;
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+SELECT type,name,sql,tbl_name FROM sqlite_temp_master;
+SELECT COUNT(*) FROM "main"."COMPANY"
+SELECT "_rowid_",* FROM "main"."COMPANY" LIMIT 0, 49999;
+PRAGMA auto_vacuum;
+PRAGMA automatic_index;
+PRAGMA checkpoint_fullfsync;
+PRAGMA foreign_keys;
+PRAGMA fullfsync;
+PRAGMA ignore_check_constraints;
+PRAGMA journal_mode;
+PRAGMA journal_size_limit;
+PRAGMA locking_mode;
+PRAGMA max_page_count;
+PRAGMA page_size;
+PRAGMA recursive_triggers;
+PRAGMA secure_delete;
+PRAGMA synchronous;
+PRAGMA temp_store;
+PRAGMA user_version;
+PRAGMA wal_autocheckpoint;
+SELECT 'x' NOT LIKE 'X';
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+SELECT type,name,sql,tbl_name FROM sqlite_temp_master;
+SELECT COUNT(*) FROM "main"."COMPANY"
+SELECT "_rowid_",* FROM "main"."COMPANY" LIMIT 0, 49999;
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+SELECT type,name,sql,tbl_name FROM sqlite_temp_master;
+SELECT COUNT(*) FROM "main"."COMPANY"
+SELECT "_rowid_",* FROM "main"."COMPANY" LIMIT 0, 49999;
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+SELECT type,name,sql,tbl_name FROM sqlite_temp_master;
+SELECT COUNT(*) FROM "main"."COMPANY"
+SELECT "_rowid_",* FROM "main"."COMPANY" LIMIT 0, 49999;
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+SELECT type,name,sql,tbl_name FROM sqlite_temp_master;
+SELECT COUNT(*) FROM "main"."COMPANY"
+SELECT "_rowid_",* FROM "main"."COMPANY" LIMIT 0, 49999;
+PRAGMA database_list;
+SELECT type,name,sql,tbl_name FROM "main".sqlite_master;
+SELECT type,name,sql,tbl_name FROM sqlite_temp_master;
+SELECT COUNT(*) FROM "main"."COMPANY"
+SELECT "_rowid_",* FROM "main"."COMPANY" LIMIT 0, 49999;
