@@ -1,0 +1,1673 @@
+-- EXECUTING ALL IN 'SQL 1'
+--
+-- At line 1:
+SELECT COUNT(Employee_Name) FROM HR
+-- Result: no such table: HR
+-- EXECUTING ALL IN 'SQL 1'
+--
+-- At line 1:
+SELECT COUNT(Employee_Name) FROM HR
+-- Result: no such table: HR
+-- EXECUTING ALL IN 'SQL 1'
+--
+-- At line 1:
+SELECT COUNT(Employee_Name) FROM HR
+-- Result: no such table: HR
+-- EXECUTING ALL IN 'SQL 1'
+--
+-- At line 1:
+SELECT COUNT(Employee_Name) FROM HR
+-- Result: no such table: HR
+-- EXECUTING ALL IN 'SQL 1'
+--
+-- At line 1:
+SELECT COUNT(Employee_Name) FROM HR
+-- Result: no such table: HR
+-- EXECUTING ALL IN 'SQL 1'
+--
+-- At line 1:
+SELECT COUNT(Employee_Name) FROM HR
+-- Result: no such table: HR
+-- EXECUTING ALL IN 'SQL 1'
+--
+-- At line 1:
+SELECT COUNT(Employee_Name)FROM HR
+-- Result: no such table: HR
+-- EXECUTING ALL IN 'SQL 1'
+--
+-- At line 1:
+SELECT COUNT(Employee_Name)FROM HR
+-- Result: no such table: HR
+-- EXECUTING ALL IN 'SQL 1'
+--
+-- At line 1:
+SELECT COUNT(Employee_Name)FROM HR
+-- Result: no such table: HR
+-- EXECUTING ALL IN 'SQL 1'
+--
+-- At line 1:
+SELECT COUNT(Employee_Name)FROM HR
+-- Result: no such table: HR
+-- EXECUTING ALL IN 'SQL 1'
+--
+-- At line 1:
+SELECT COUNT(Employee_Name)FROM HR
+-- Result: no such table: HR
+-- EXECUTING ALL IN 'SQL 1'
+--
+-- At line 1:
+SELECT COUNT(Employee_Name)FROM HR
+-- Result: no such table: HR
+-- EXECUTING ALL IN 'SQL 1'
+--
+-- At line 1:
+SELECT COUNT(Employee_Name)FROM HR WHERE POSITION= 'Product Technican I';
+-- Result: no such table: HR
+-- EXECUTING ALL IN 'SQL 1'
+--
+-- At line 1:
+SELECT COUNT(Employee_Name)FROM HR WHERE POSITION= 'Product Technican I';
+-- Result: no such table: HR
+-- EXECUTING ALL IN 'SQL 1'
+--
+-- At line 1:
+SELECT COUNT(Employee_Name)FROM HR WHERE POSITION= 'Product Technican I';
+-- Result: no such table: HR
+-- EXECUTING ALL IN 'SQL 1'
+--
+-- At line 1:
+SELECT COUNT(Employee_Name)FROM HR WHERE POSITION= 'Product Technican I';
+-- Result: no such table: HR
+-- EXECUTING ALL IN 'SQL 1'
+--
+-- At line 1:
+SELECT COUNT(Employee_Name)FROM HR WHERE POSITION= 'Product Technican I';
+-- Result: no such table: HR
+-- EXECUTING ALL IN 'SQL 1'
+--
+-- At line 1:
+SELECT COUNT(Employee_Name)FROM HR WHERE POSITION= 'Product Technican I';
+-- Result: no such table: HR
+-- EXECUTING ALL IN 'SQL 1'
+--
+-- At line 1:
+SELECT COUNT(Employee_Name)FROM HR WHERE POSITION= 'Product Technican I';
+-- Result: no such table: HR
+-- EXECUTING ALL IN 'SQL 1'
+--
+-- At line 1:
+SELECT COUNT(Employee_Name)FROM HR WHERE POSITION= 'Product Technican I';
+-- Result: no such table: HR
+-- EXECUTING ALL IN 'SQL 1'
+--
+-- At line 1:
+SELECT COUNT(Employee_Name)FROM HR WHERE POSITION= 'Product Technican I';
+-- Result: no such table: HR
+-- EXECUTING ALL IN 'SQL 1'
+--
+-- At line 1:
+SELECT COUNT(Employee_Name)FROM HR WHERE POSITION= 'Product Technican I';
+-- Result: no such table: HR
+-- EXECUTING ALL IN 'SQL 1'
+--
+-- At line 1:
+SELECT COUNT(Employee_Name)FROM HR WHERE POSITION= 'Product Technican I';
+-- Result: no such table: HR
+-- EXECUTING ALL IN 'SQL 1'
+--
+-- At line 1:
+SELECT COUNT(Employee_Name)FROM HR WHERE POSITION= 'Product Technican I';
+-- Result: no such table: HR
+-- EXECUTING ALL IN 'SQL 1'
+--
+-- At line 1:
+SELECT COUNT(Employee_Name)FROM HR WHERE POSITION= 'Product Technican I';
+-- Result: no such table: HR
+-- EXECUTING ALL IN 'SQL 1'
+--
+-- At line 1:
+SELECT COUNT(Employee_Name)FROM HR WHERE POSITION= 'Product Technican I';
+-- Result: no such table: HR
+-- EXECUTING ALL IN 'SQL 1'
+--
+-- At line 1:
+SELECT COUNT(Employee_Name)FROM HR WHERE POSITION= 'Product Technican I';
+-- Result: no such table: HR
+-- EXECUTING ALL IN 'SQL 1'
+--
+-- At line 1:
+SELECT COUNT(Employee_Name)FROM HR WHERE POSITION= 'Product Technican I';
+-- Result: no such table: HR
+-- EXECUTING ALL IN 'SQL 1'
+--
+-- At line 1:
+SELECT COUNT(Employee_Name)FROM HR WHERE POSITION= 'Product Technican I';
+-- Result: no such table: HR
+-- EXECUTING ALL IN 'SQL 1'
+--
+-- At line 1:
+SELECT COUNT(Employee_Name)FROM HR WHERE POSITION= 'Product Technican I';
+-- Result: no such table: HR
+-- EXECUTING ALL IN 'SQL 1'
+--
+-- At line 1:
+SELECT COUNT(Employee_Name)FROM HR WHERE POSITION= 'Production Technican I';
+-- Result: 1 rows returned in 7ms
+-- EXECUTING ALL IN 'SQL 1'
+--
+-- At line 1:
+SELECT COUNT(Employee_Name)FROM HR WHERE POSITION= 'Production Technician I';
+-- Result: 1 rows returned in 5ms
+-- EXECUTING ALL IN 'SQL 2'
+--
+-- At line 1:
+SELECT COUNT(Employee_Name)FROM HR WHERE GenderID= '1';
+-- Result: 1 rows returned in 8ms
+-- EXECUTING ALL IN 'SQL 3'
+--
+-- At line 1:
+SELECT COUNT Employee_Name FROM HR WHERE GenderID= 'Michael Albert';
+-- Result: no such column: COUNT
+-- EXECUTING ALL IN 'SQL 3'
+--
+-- At line 1:
+SELECT COUNT Employee_Name FROM HR WHERE GenderID= 'Michael Albert';
+-- Result: no such column: COUNT
+-- EXECUTING ALL IN 'SQL 3'
+--
+-- At line 1:
+SELECT COUNT Employee_Name FROM HR WHERE GenderID= 'Michael Albert';
+-- Result: no such column: COUNT
+-- EXECUTING ALL IN 'SQL 3'
+--
+-- At line 1:
+SELECT COUNT Employee_Name FROM HR WHERE GenderID= 'Michael Albert';
+-- Result: no such column: COUNT
+-- EXECUTING ALL IN 'SQL 3'
+--
+-- At line 1:
+SELECT COUNT Employee_Name FROM HR WHERE GenderID= 'Michael Albert';
+-- Result: no such column: COUNT
+-- EXECUTING ALL IN 'SQL 3'
+--
+-- At line 1:
+SELECT COUNT Employee_Name FROM HR WHERE GenderID= 'Michael Albert';
+-- Result: no such column: COUNT
+-- EXECUTING ALL IN 'SQL 3'
+--
+-- At line 1:
+SELECT COUNT Employee_Name FROM HR WHERE GenderID= 'Michael Albert';
+-- Result: no such column: COUNT
+-- EXECUTING ALL IN 'SQL 3'
+--
+-- At line 1:
+SELECT COUNT Employee_Name FROM HR WHERE GenderID= 'Michael Albert';
+-- Result: no such column: COUNT
+-- EXECUTING ALL IN 'SQL 3'
+--
+-- At line 1:
+SELECT COUNT Employee_Name FROM HR WHERE ManagerName = 'Micial Albert';
+-- Result: no such column: COUNT
+-- EXECUTING ALL IN 'SQL 3'
+--
+-- At line 1:
+SELECT COUNT Employee_Name FROM HR WHERE ManagerName = 'Micial Albert';
+-- Result: no such column: COUNT
+-- EXECUTING ALL IN 'SQL 3'
+--
+-- At line 1:
+SELECT COUNT Employee_Name FROM HR WHERE ManagerName = 'Micial Albert';
+-- Result: no such column: COUNT
+-- EXECUTING ALL IN 'SQL 3'
+--
+-- At line 1:
+SELECT COUNT Employee_Name FROM HR WHERE ManagerName = 'Micial Albert';
+-- Result: no such column: COUNT
+-- EXECUTING ALL IN 'SQL 3'
+--
+-- At line 1:
+SELECT COUNT Employee_Name FROM HR WHERE ManagerName = 'Micial Albert';
+-- Result: no such column: COUNT
+-- EXECUTING ALL IN 'SQL 3'
+--
+-- At line 1:
+SELECT COUNT Employee_Name FROM HR WHERE ManagerName = 'Micial Albert';
+-- Result: no such column: COUNT
+-- EXECUTING ALL IN 'SQL 3'
+--
+-- At line 1:
+SELECT COUNT Employee_Name FROM HR WHERE ManagerName = 'Micial Albert';
+-- Result: no such column: COUNT
+-- EXECUTING ALL IN 'SQL 3'
+--
+-- At line 1:
+SELECT COUNT Employee_Name FROM HR WHERE ManagerName = 'Micial Albert';
+-- Result: no such column: COUNT
+-- EXECUTING ALL IN 'SQL 3'
+--
+-- At line 1:
+SELECT COUNT Employee_Name FROM HR WHERE ManagerName = 'Micial Albert';
+-- Result: no such column: COUNT
+-- EXECUTING ALL IN 'SQL 3'
+--
+-- At line 1:
+SELECT COUNT Employee_Name FROM HR WHERE ManagerName = 'Micial Albert';
+-- Result: no such column: COUNT
+-- EXECUTING ALL IN 'SQL 3'
+--
+-- At line 1:
+SELECT COUNT Employee_Name FROM HR WHERE ManagerName = 'Micial Albert';
+-- Result: no such column: COUNT
+-- EXECUTING ALL IN 'SQL 3'
+--
+-- At line 1:
+SELECT COUNT Employee_Name FROM HR WHERE ManagerName = 'Micial Albert';
+-- Result: no such column: COUNT
+-- EXECUTING ALL IN 'SQL 3'
+--
+-- At line 1:
+SELECT COUNT(Employee_Name) FROM HR WHERE ManagerName = 'Micial Albert';
+-- Result: 1 rows returned in 5ms
+-- EXECUTING ALL IN 'SQL 3'
+--
+-- At line 1:
+SELECT COUNT(Employee_Name) FROM HR WHERE ManagerName = 'Michael Albert';
+-- Result: 1 rows returned in 5ms
+-- EXECUTING ALL IN 'SQL 4'
+--
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE EmploymentStatus ='Active';
+-- Result: 207 rows returned in 10ms
+-- EXECUTING ALL IN 'SQL 5'
+--
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE EmploymentStatus ='Active';
+-- Result: 207 rows returned in 8ms
+-- At line 1:
+AND
+-- Result: near "AND": syntax error
+-- EXECUTING ALL IN 'SQL 5'
+--
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE EmploymentStatus ='Active' AND MaritalDesc='Married'
+-- Result: 77 rows returned in 6ms
+-- EXECUTING ALL IN 'SQL 6'
+--
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE EmploymentStatus ='Active' AND Salary<60000;
+-- Result: 0 rows returned in 4ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE EmploymentStatus ='Active' AND Salary<60000;
+-- Result: 0 rows returned in 4ms
+-- EXECUTING ALL IN 'SQL 6'
+--
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE EmploymentStatus ='Active' AND Salary<'60000
+-- Result: 88 rows returned in 28182ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE EmploymentStatus ='Active' AND Salary<'60000';
+-- Result: 88 rows returned in 7ms
+-- EXECUTING ALL IN 'SQL 7'
+--
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND EngagementSurvey ='5'
+-- Result: 7 rows returned in 4ms
+-- EXECUTING ALL IN 'SQL 8'
+--
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 3ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 4ms
+-- EXECUTING ALL IN 'SQL 8'
+--
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 2836ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 5ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 2837ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 6ms
+-- EXECUTING ALL IN 'SQL 8'
+--
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 3140ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 308ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 5ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 3141ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 310ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 6ms
+-- EXECUTING ALL IN 'SQL 8'
+--
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 3444ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 612ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 309ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 5ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 3445ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 614ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 310ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 6ms
+-- EXECUTING ALL IN 'SQL 8'
+--
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 3715ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 884ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 581ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 277ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 5ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 3718ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 886ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 582ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 278ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 6ms
+-- EXECUTING ALL IN 'SQL 8'
+--
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 4019ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 1187ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 884ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 580ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 308ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 5ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 4021ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 1189ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 885ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 581ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 309ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 6ms
+-- EXECUTING ALL IN 'SQL 8'
+--
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 4291ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 1460ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 1156ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 853ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 581ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 278ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 5ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 4293ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 1462ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 1158ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 854ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 582ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 279ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE Position ='Production Technician II' AND 'Maximum Salary'
+-- Result: 0 rows returned in 7ms
+-- EXECUTING ALL IN 'SQL 8'
+--
+-- At line 1:
+SELECT FROM
+-- Result: near "FROM": syntax error
+-- EXECUTING ALL IN 'SQL 8'
+--
+-- At line 1:
+SELECT * FROM HRV ORDER BY SALARY DESC LIMIT 1;
+-- Result: no such table: HRV
+-- EXECUTING ALL IN 'SQL 8'
+--
+-- At line 1:
+SELECT * FROM HRV ORDER BY SALARY DESC LIMIT 1;
+-- Result: no such table: HRV
+-- EXECUTING ALL IN 'SQL 8'
+--
+-- At line 1:
+SELECT * FROM HRV ORDER BY SALARY DESC LIMIT 1;
+-- Result: no such table: HRV
+-- EXECUTING ALL IN 'SQL 8'
+--
+-- At line 1:
+SELECT *FROM HRV ORDER BY SALARY DESC LIMIT 1;
+-- Result: no such table: HRV
+-- EXECUTING ALL IN 'SQL 8'
+--
+-- At line 1:
+
+-- Result: 1 rows returned in 95769ms
+-- At line 1:
+
+-- Result: 1 rows returned in 92938ms
+-- At line 1:
+
+-- Result: 1 rows returned in 92635ms
+-- At line 1:
+
+-- Result: 1 rows returned in 92331ms
+-- At line 1:
+   
+-- Result: 1 rows returned in 92059ms
+-- At line 1:
+                                                                                            
+-- Result: 1 rows returned in 92401ms
+-- At line 1:
+  g 
+-- Result: 1 rows returned in 92131ms
+-- At line 1:
+SELECT *FROM HR ORDER BY SALARY DESC LIMIT 1;
+-- Result: 1 rows returned in 657ms
+-- EXECUTING ALL IN 'SQL 9'
+--
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598
+-- Result: 0 rows returned in 4ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598
+-- Result: 0 rows returned in 4ms
+-- EXECUTING ALL IN 'SQL 9'
+--
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.68488745
+-- Result: 0 rows returned in 14956ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.6848874598
+-- Result: 0 rows returned in 4ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.68488745
+-- Result: 0 rows returned in 14957ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.6848874598
+-- Result: 0 rows returned in 5ms
+-- EXECUTING ALL IN 'SQL 9'
+--
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.68488745
+-- Result: 0 rows returned in 47020ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.6848874598
+-- Result: 0 rows returned in 32067ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 4ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.68488745
+-- Result: 0 rows returned in 47021ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.6848874598
+-- Result: 0 rows returned in 32069ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 5ms
+-- EXECUTING ALL IN 'SQL 9'
+--
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.68488745
+-- Result: 0 rows returned in 47515ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.6848874598
+-- Result: 0 rows returned in 32563ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 500ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 4ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.68488745
+-- Result: 0 rows returned in 47517ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.6848874598
+-- Result: 0 rows returned in 32564ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 501ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 5ms
+-- EXECUTING ALL IN 'SQL 9'
+--
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.68488745
+-- Result: 0 rows returned in 47724ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.6848874598
+-- Result: 0 rows returned in 32772ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 708ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 213ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 5ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.68488745
+-- Result: 0 rows returned in 47725ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.6848874598
+-- Result: 0 rows returned in 32773ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 709ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 214ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 6ms
+-- EXECUTING ALL IN 'SQL 9'
+--
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.68488745
+-- Result: 0 rows returned in 47907ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.6848874598
+-- Result: 0 rows returned in 32955ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 892ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 396ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 189ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 5ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.68488745
+-- Result: 0 rows returned in 47909ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.6848874598
+-- Result: 0 rows returned in 32957ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 893ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 397ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 190ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 6ms
+-- EXECUTING ALL IN 'SQL 9'
+--
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.68488745
+-- Result: 0 rows returned in 48108ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.6848874598
+-- Result: 0 rows returned in 33156ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 1092ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 597ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 389ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 205ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 5ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.68488745
+-- Result: 0 rows returned in 48109ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.6848874598
+-- Result: 0 rows returned in 33157ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 1093ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 598ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 390ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 206ms
+-- At line 1:
+SELECT (Employee_Name) FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 6ms
+-- EXECUTING ALL IN 'SQL 9'
+--
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598
+-- Result: 0 rows returned in 62180ms
+-- At line 1:
+
+-- Result: 0 rows returned in 47228ms
+-- At line 1:
+
+-- Result: 0 rows returned in 15165ms
+-- At line 1:
+
+-- Result: 0 rows returned in 14669ms
+-- At line 1:
+
+-- Result: 0 rows returned in 14461ms
+-- At line 1:
+
+-- Result: 0 rows returned in 14278ms
+-- At line 1:
+
+-- Result: 0 rows returned in 14078ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 5ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598
+-- Result: 0 rows returned in 62182ms
+-- At line 1:
+
+-- Result: 0 rows returned in 47230ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 15166ms
+-- At line 1:
+ ׶b 
+-- Result: 0 rows returned in 14670ms
+-- At line 1:
+
+-- Result: 0 rows returned in 14733ms
+-- At line 1:
+
+-- Result: 0 rows returned in 14550ms
+-- At line 1:
+
+-- Result: 0 rows returned in 14350ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 277ms
+-- EXECUTING ALL IN 'SQL 9'
+--
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598
+-- Result: 0 rows returned in 63228ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598
+-- Result: 0 rows returned in 48276ms
+-- At line 1:
+
+-- Result: 0 rows returned in 16212ms
+-- At line 1:
+
+-- Result: 0 rows returned in 15717ms
+-- At line 1:
+
+-- Result: 0 rows returned in 15509ms
+-- At line 1:
+ N5` 
+-- Result: 0 rows returned in 15325ms
+-- At line 1:
+ N5` 
+-- Result: 0 rows returned in 15126ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 1053ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 6ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598
+-- Result: 0 rows returned in 63230ms
+-- At line 1:
+
+-- Result: 0 rows returned in 48278ms
+-- At line 1:
+
+-- Result: 0 rows returned in 16214ms
+-- At line 1:
+
+-- Result: 0 rows returned in 15719ms
+-- At line 1:
+
+-- Result: 0 rows returned in 15511ms
+-- At line 1:
+
+-- Result: 0 rows returned in 15327ms
+-- At line 1:
+
+-- Result: 0 rows returned in 15127ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 1055ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 8ms
+-- EXECUTING ALL IN 'SQL 9'
+--
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598
+-- Result: 0 rows returned in 64699ms
+-- At line 1:
+
+-- Result: 0 rows returned in 49747ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 17684ms
+-- At line 1:
+
+-- Result: 0 rows returned in 17188ms
+-- At line 1:
+
+-- Result: 0 rows returned in 16981ms
+-- At line 1:
+
+-- Result: 0 rows returned in 16797ms
+-- At line 1:
+
+-- Result: 0 rows returned in 16597ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 2524ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 1478ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 5ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598
+-- Result: 0 rows returned in 64701ms
+-- At line 1:
+
+-- Result: 0 rows returned in 49749ms
+-- At line 1:
+
+-- Result: 0 rows returned in 17685ms
+-- At line 1:
+
+-- Result: 0 rows returned in 17190ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 16982ms
+-- At line 1:
+
+-- Result: 0 rows returned in 16798ms
+-- At line 1:
+
+-- Result: 0 rows returned in 16598ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 2526ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 1479ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 7ms
+-- EXECUTING ALL IN 'SQL 9'
+--
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598
+-- Result: 0 rows returned in 90427ms
+-- At line 1:
+  b 
+-- Result: 0 rows returned in 75475ms
+-- At line 1:
+
+-- Result: 0 rows returned in 43412ms
+-- At line 1:
+
+-- Result: 0 rows returned in 42916ms
+-- At line 1:
+
+-- Result: 0 rows returned in 42709ms
+-- At line 1:
+
+-- Result: 0 rows returned in 42525ms
+-- At line 1:
+
+-- Result: 0 rows returned in 42325ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 28252ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 27206ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 25733ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 5ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598
+-- Result: 0 rows returned in 90430ms
+-- At line 1:
+
+-- Result: 0 rows returned in 75478ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598
+-- Result: 0 rows returned in 43414ms
+-- At line 1:
+
+-- Result: 0 rows returned in 42918ms
+-- At line 1:
+
+-- Result: 0 rows returned in 42710ms
+-- At line 1:
+
+-- Result: 0 rows returned in 42527ms
+-- At line 1:
+
+-- Result: 0 rows returned in 42327ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 28254ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 27207ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 25735ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 7ms
+-- EXECUTING ALL IN 'SQL 9'
+--
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598
+-- Result: 0 rows returned in 91500ms
+-- At line 1:
+
+-- Result: 0 rows returned in 76548ms
+-- At line 1:
+
+-- Result: 0 rows returned in 44485ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 43989ms
+-- At line 1:
+
+-- Result: 0 rows returned in 43781ms
+-- At line 1:
+
+-- Result: 0 rows returned in 43598ms
+-- At line 1:
+
+-- Result: 0 rows returned in 43398ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 29325ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 28278ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 26806ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 1078ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 6ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598
+-- Result: 0 rows returned in 91502ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 76550ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 44486ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 43991ms
+-- At line 1:
+ ׶b 
+-- Result: 0 rows returned in 43783ms
+-- At line 1:
+
+-- Result: 0 rows returned in 43599ms
+-- At line 1:
+
+-- Result: 0 rows returned in 43399ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 29327ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 28280ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 26808ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 1080ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<6902.6848874598;
+-- Result: 0 rows returned in 7ms
+-- EXECUTING ALL IN 'SQL 9'
+--
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<69020.684887459
+-- Result: 221 rows returned in 109002ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<69020.6848874598;
+-- Result: 221 rows returned in 94050ms
+-- At line 1:
+
+-- Result: 221 rows returned in 61986ms
+-- At line 1:
+
+-- Result: 221 rows returned in 61491ms
+-- At line 1:
+
+-- Result: 221 rows returned in 61283ms
+-- At line 1:
+1.g 
+-- Result: 221 rows returned in 61099ms
+-- At line 1:
+
+-- Result: 221 rows returned in 60899ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<69020.6848874598
+-- Result: 221 rows returned in 46827ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<69020.6848874598
+-- Result: 221 rows returned in 45780ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<69020.6848874598
+-- Result: 221 rows returned in 44308ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<69020.6848874598
+-- Result: 221 rows returned in 18580ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<69020.6848874598
+-- Result: 221 rows returned in 17507ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<69020.6848874598;
+-- Result: 221 rows returned in 12ms
+-- EXECUTING ALL IN 'SQL 10'
+--
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<69020.6848874598;
+-- Result: 221 rows returned in 9ms
+-- At line 1:
+AND
+-- Result: near "AND": syntax error
+-- EXECUTING ALL IN 'SQL 10'
+--
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<69020.6848874598;
+-- Result: 221 rows returned in 9ms
+-- At line 1:
+AND
+-- Result: near "AND": syntax error
+-- EXECUTING ALL IN 'SQL 10'
+--
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<69020.6848874598;
+-- Result: 221 rows returned in 10ms
+-- At line 1:
+AND
+-- Result: near "AND": syntax error
+-- EXECUTING ALL IN 'SQL 10'
+--
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<69020.6848874598;
+-- Result: 221 rows returned in 9ms
+-- At line 1:
+AND
+-- Result: near "AND": syntax error
+-- EXECUTING ALL IN 'SQL 10'
+--
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<69020.6848874598;
+-- Result: 221 rows returned in 9ms
+-- At line 1:
+AND
+-- Result: near "AND": syntax error
+-- EXECUTING ALL IN 'SQL 10'
+--
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<69020.6848874598;
+-- Result: 221 rows returned in 9ms
+-- At line 1:
+AND
+-- Result: near "AND": syntax error
+-- EXECUTING ALL IN 'SQL 10'
+--
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<69020.6848874598;
+-- Result: 221 rows returned in 9ms
+-- At line 1:
+AND
+-- Result: near "AND": syntax error
+-- EXECUTING ALL IN 'SQL 10'
+--
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<69020.6848874598;
+-- Result: 221 rows returned in 9ms
+-- At line 1:
+AND
+-- Result: near "AND": syntax error
+-- EXECUTING ALL IN 'SQL 10'
+--
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<69020.6848874598 AND EmpSatisfaction<3;
+-- Result: 0 rows returned in 4ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<69020.6848874598 AND EmpSatisfaction<3;
+-- Result: 0 rows returned in 4ms
+-- EXECUTING ALL IN 'SQL 10'
+--
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<69020.6848874598 AND EmpSatisfaction<3;
+-- Result: 0 rows returned in 22587ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<69020.6848874598 AND EmpSatisfaction<3;
+-- Result: 0 rows returned in 4ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<69020.6848874598 AND EmpSatisfaction<3;
+-- Result: 0 rows returned in 22588ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<69020.6848874598 AND EmpSatisfaction<3;
+-- Result: 0 rows returned in 5ms
+-- EXECUTING ALL IN 'SQL 10'
+--
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<69020.6848874598 AND EmpSatisfaction<'3
+-- Result: 10 rows returned in 39187ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<69020.6848874598 AND EmpSatisfaction<'3
+-- Result: 10 rows returned in 16604ms
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<69020.6848874598 AND EmpSatisfaction<'3';
+-- Result: 10 rows returned in 5ms
+-- EXECUTING ALL IN 'SQL 10'
+--
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<69020.6848874598 AND EmpSatisfaction<'3';
+-- Result: 10 rows returned in 4ms
+-- EXECUTING ALL IN 'SQL 10'
+--
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<69020.6848874598 AND EmpSatisfaction<'3';
+-- Result: 10 rows returned in 4ms
+-- EXECUTING ALL IN 'SQL 10'
+--
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<69020.6848874598 AND EmpSatisfaction<'3';
+-- Result: 10 rows returned in 6ms
+-- EXECUTING ALL IN 'SQL 10'
+--
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<69020.6848874598 AND EmpSatisfaction<'3';
+-- Result: 10 rows returned in 4ms
+-- EXECUTING ALL IN 'SQL 10'
+--
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<69020.6848874598 AND EmpSatisfaction<'3';
+-- Result: 10 rows returned in 4ms
+-- EXECUTING ALL IN 'SQL 10'
+--
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<69020.6848874598 AND EmpSatisfaction<'3';
+-- Result: 10 rows returned in 4ms
+-- EXECUTING ALL IN 'SQL 10'
+--
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<69020.6848874598 AND EmpSatisfaction<'3';
+-- Result: 10 rows returned in 4ms
+-- EXECUTING ALL IN 'SQL 10'
+--
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<69020.6848874598 AND EmpSatisfaction<'3';
+-- Result: 10 rows returned in 4ms
+-- EXECUTING ALL IN 'SQL 10'
+--
+-- At line 1:
+SELECT Employee_Name FROM HR WHERE SALARY<69020.6848874598 AND EmpSatisfaction<'3';
+-- Result: 10 rows returned in 4ms
+-- EXECUTING ALL IN 'SQL 13'
+--
+-- At line 1:
+SELECT COUNT (Employee_Name) FROM HR WHERE prefScoreID3 ;
+-- Result: no such column: prefScoreID3
+-- EXECUTING ALL IN 'SQL 13'
+--
+-- At line 1:
+SELECT COUNT (Employee_Name) FROM HR WHERE PerfScoreID 3
+-- Result: near "3": syntax error
+-- EXECUTING ALL IN 'SQL 13'
+--
+-- At line 1:
+SELECT COUNT (Employee_Name) FROM HR WHERE PerfScoreID 3
+-- Result: near "3": syntax error
+-- EXECUTING ALL IN 'SQL 13'
+--
+-- At line 1:
+SELECT COUNT (Employee_Name) FROM HR WHERE PerfScoreID 3
+-- Result: near "3": syntax error
+-- EXECUTING ALL IN 'SQL 13'
+--
+-- At line 1:
+SELECT COUNT (Employee_Name) FROM HR WHERE PerfScoreID'3'
+-- Result: near "'3'": syntax error
+-- EXECUTING ALL IN 'SQL 13'
+--
+-- At line 1:
+SELECT COUNT (Employee_Name) FROM HR WHERE PerfScoreID'3'
+-- Result: near "'3'": syntax error
+-- EXECUTING ALL IN 'SQL 13'
+--
+-- At line 1:
+SELECT COUNT (Employee_Name) FROM HR WHERE PerfScoreID'3'
+-- Result: near "'3'": syntax error
+-- EXECUTING ALL IN 'SQL 13'
+--
+-- At line 1:
+SELECT COUNT (Employee_Name) FROM HR WHERE PerfScoreID'3'
+-- Result: near "'3'": syntax error
+-- EXECUTING ALL IN 'SQL 13'
+--
+-- At line 1:
+SELECT COUNT (Employee_Name) FROM HR WHERE PerfScoreID'3'
+-- Result: near "'3'": syntax error
+-- EXECUTING ALL IN 'SQL 13'
+--
+-- At line 1:
+SELECT COUNT (Employee_Name) FROM HR WHERE PerfScoreID'3'
+-- Result: near "'3'": syntax error
+-- EXECUTING ALL IN 'SQL 13'
+--
+-- At line 1:
+SELECT COUNT (Employee_Name) FROM HR WHERE PerfScoreID'3'
+-- Result: near "'3'": syntax error
+-- EXECUTING ALL IN 'SQL 13'
+--
+-- At line 1:
+SELECT COUNT (Employee_Name) FROM HR WHERE PerfScoreID='3' ;
+-- Result: 1 rows returned in 4ms
+-- EXECUTING ALL IN 'SQL 13'
+--
+-- At line 1:
+SELECT COUNT (Employee_Name) FROM HR WHERE PerfScoreID>'3' ;
+-- Result: 1 rows returned in 5ms
+-- EXECUTING ALL IN 'SQL 14'
+--
+-- At line 1:
+SELECT count (Employee_Name) FROM HR WHERE EmpSatisfaction='5'
+-- Result: 1 rows returned in 4ms
+-- EXECUTING ALL IN 'SQL 15'
+--
+-- At line 1:
+SELECT COUNT(Employee_Name) FROM HR WHERE Department='IT/IS' ;
+-- Result: 1 rows returned in 5ms
+-- EXECUTING ALL IN 'SQL 16'
+--
+-- At line 1:
+SELECT MAX (Department),COUNT(Employee_Name) FROM HR GROUP BY Department ;
+-- Result: 6 rows returned in 6ms
+-- EXECUTING ALL IN 'SQL 17'
+--
+-- At line 1:
+SELECT MAX (Department),COUNT(Employee_Name) FROM HR GROUP BY Department ;
+-- Result: 6 rows returned in 6ms
+-- EXECUTING ALL IN 'SQL 18'
+--
+-- At line 1:
+SELECT Employee_Name, prefScoreID FROM HR ORDER BY PerfScoreID;
+-- Result: no such column: prefScoreID
+-- EXECUTING ALL IN 'SQL 18'
+--
+-- At line 1:
+SELECT Employee_Name, PerfScoreID FROM HR ORDER BY PerfScoreID;
+-- Result: 311 rows returned in 16ms
+-- EXECUTING ALL IN 'SQL 19'
+--
+-- At line 1:
+SELECT MAX(SALARY) FROM HR;
+-- Result: 1 rows returned in 7ms
+-- At line 2:
+SELECT Employee_Name, PerfScoreID FROM HR WHERE FromDiversityJobFairID =1
+-- Result: 0 rows returned in 2ms
+-- At line 2:
+SELECT Employee_Name, PerfScoreID FROM HR WHERE FromDiversityJobFairID =1
+-- Result: 0 rows returned in 2ms
+-- EXECUTING ALL IN 'SQL 19'
+--
+-- At line 2:
+SELECT Employee_Name, PerfScoreID FROM HR WHERE FromDiversityJobFairID =1
+-- Result: 1 rows returned in 869ms
+-- At line 1:
+SELECT MAX(SALARY) FROM HR;
+-- Result: 1 rows returned in 5ms
+-- At line 2:
+SELECT Employee_Name, PerfScoreID FROM HR WHERE FromDiversityJobFairID =1
+-- Result: 0 rows returned in 2ms
+-- At line 2:
+SELECT Employee_Name, PerfScoreID FROM HR WHERE FromDiversityJobFairID =1
+-- Result: 0 rows returned in 10ms
+-- EXECUTING ALL IN 'SQL 19'
+--
+-- At line 2:
+SELECT Employee_Name, PerfScoreID FROM HR WHERE FromDiversityJobFairID =1
+-- Result: 1 rows returned in 331ms
+-- At line 1:
+SELECT MAX(SALARY) FROM HR;
+-- Result: 1 rows returned in 4ms
+-- At line 2:
+SELECT Employee_Name, PerfScoreID FROM HR WHERE FromDiversityJobFairID =1
+-- Result: 0 rows returned in 8ms
+-- At line 2:
+SELECT Employee_Name, PerfScoreID FROM HR WHERE FromDiversityJobFairID =1
+-- Result: 0 rows returned in 9ms
+-- EXECUTING ALL IN 'SQL 19'
+--
+-- At line 2:
+SELECT Employee_Name, PerfScoreID FROM HR WHERE FromDiversityJobFairID =1
+-- Result: 1 rows returned in 299ms
+-- At line 1:
+SELECT MAX(SALARY) FROM HR;
+-- Result: 1 rows returned in 4ms
+-- At line 2:
+SELECT Employee_Name, PerfScoreID FROM HR WHERE FromDiversityJobFairID =1
+-- Result: 0 rows returned in 9ms
+-- At line 2:
+SELECT Employee_Name, PerfScoreID FROM HR WHERE FromDiversityJobFairID =1
+-- Result: 0 rows returned in 9ms
+-- EXECUTING ALL IN 'SQL 19'
+--
+-- At line 2:
+
+-- Result: 1 rows returned in 10993ms
+-- At line 1:
+SELECT MAX(SALARY) FROM HR;
+-- Result: 1 rows returned in 4ms
+-- At line 2:
+SELECT Employee_Name PerfScoreID FROM HR WHERE FromDiversityJobFairID =1
+-- Result: 0 rows returned in 8ms
+-- At line 2:
+SELECT Employee_Name PerfScoreID FROM HR WHERE FromDiversityJobFairID =1
+-- Result: 0 rows returned in 9ms
+-- EXECUTING ALL IN 'SQL 19'
+--
+-- At line 2:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 AND S
+-- Result: 1 rows returned in 63623ms
+-- At line 1:
+SELECT MAX(SALARY) FROM HR;
+-- Result: 1 rows returned in 4ms
+-- At line 2:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 AND Salary=250000;
+-- Result: 0 rows returned in 2ms
+-- At line 2:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 AND Salary=250000;
+-- Result: 0 rows returned in 2ms
+-- EXECUTING ALL IN 'SQL 19'
+--
+-- At line 2:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 AND Salary=250000;
+-- Result: 1 rows returned in 545ms
+-- At line 1:
+SELECT MAX(SALARY) FROM HR;
+-- Result: 1 rows returned in 5ms
+-- At line 2:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 AND Salary=250000;
+-- Result: 0 rows returned in 2ms
+-- At line 2:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 AND Salary=250000;
+-- Result: 0 rows returned in 2ms
+-- EXECUTING ALL IN 'SQL 19'
+--
+-- EXECUTING ALL IN 'SQL 19'
+--
+-- At line 1:
+SELECT MAX(SALARY) FROM HR;
+-- Result: 1 rows returned in 4ms
+-- At line 2:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 AND Salary=25000;
+-- Result: 0 rows returned in 9ms
+-- At line 2:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 AND Salary=25000;
+-- Result: 0 rows returned in 9ms
+-- EXECUTING ALL IN 'SQL 19'
+--
+-- At line 2:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 AND Salary=25000;
+-- Result: 1 rows returned in 586ms
+-- At line 1:
+SELECT MAX(SALARY) FROM HR;
+-- Result: 1 rows returned in 5ms
+-- At line 2:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 AND Salary=25000;
+-- Result: 0 rows returned in 2ms
+-- At line 2:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 AND Salary=25000;
+-- Result: 0 rows returned in 2ms
+-- EXECUTING ALL IN 'SQL 19'
+--
+-- At line 2:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 AND Salary=25000;
+-- Result: 1 rows returned in 224ms
+-- At line 1:
+SELECT MAX(SALARY) FROM HR;
+-- Result: 1 rows returned in 5ms
+-- At line 2:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 AND Salary=25000;
+-- Result: 0 rows returned in 2ms
+-- At line 2:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 AND Salary=25000;
+-- Result: 0 rows returned in 9ms
+-- EXECUTING ALL IN 'SQL 19'
+--
+-- At line 2:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 AND Salary=25000;
+-- Result: 1 rows returned in 241ms
+-- At line 1:
+SELECT MAX(SALARY) FROM HR;
+-- Result: 1 rows returned in 5ms
+-- At line 2:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 AND Salary=25000;
+-- Result: 0 rows returned in 2ms
+-- At line 2:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 AND Salary=25000;
+-- Result: 0 rows returned in 2ms
+-- EXECUTING ALL IN 'SQL 19'
+--
+-- At line 2:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 AND Salary=25000;
+-- Result: 1 rows returned in 431ms
+-- At line 1:
+SELECT MAX(SALARY) FROM HR;
+-- Result: 1 rows returned in 4ms
+-- At line 2:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 AND Salary=25000;
+-- Result: 0 rows returned in 9ms
+-- At line 2:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 AND Salary=25000;
+-- Result: 0 rows returned in 9ms
+-- EXECUTING ALL IN 'SQL 19'
+--
+-- At line 2:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 AND Salary=25000;
+-- Result: 1 rows returned in 522ms
+-- At line 1:
+SELECT MAX(SALARY) FROM HR;
+-- Result: 1 rows returned in 6ms
+-- At line 2:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 AND Salary=25000;
+-- Result: 0 rows returned in 2ms
+-- At line 2:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 AND Salary=25000;
+-- Result: 0 rows returned in 2ms
+-- EXECUTING ALL IN 'SQL 19'
+--
+-- At line 2:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 AND Salary=25000;
+-- Result: 1 rows returned in 27549ms
+-- At line 1:
+SELECT MAX(SALARY) FROM HR;
+-- Result: 1 rows returned in 5ms
+-- At line 2:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 AND Salary=25000;
+-- Result: 0 rows returned in 10ms
+-- At line 2:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 AND Salary=25000;
+-- Result: 0 rows returned in 10ms
+-- EXECUTING ALL IN 'SQL 19'
+--
+-- EXECUTING ALL IN 'SQL 19'
+--
+-- At line 1:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 ORDER BY Salary DESC
+-- Result: 0 rows returned in 4ms
+-- At line 1:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 ORDER BY Salary DESC
+-- Result: 0 rows returned in 4ms
+-- EXECUTING ALL IN 'SQL 19'
+--
+-- At line 1:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 ORDER BY Salary DESC
+-- Result: 0 rows returned in 603ms
+-- At line 1:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 ORDER BY Salary DESC
+-- Result: 0 rows returned in 4ms
+-- At line 1:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 ORDER BY Salary DESC
+-- Result: 0 rows returned in 605ms
+-- At line 1:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 ORDER BY Salary DESC
+-- Result: 0 rows returned in 5ms
+-- EXECUTING ALL IN 'SQL 19'
+--
+-- At line 1:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 ORDER BY Salary DESC
+-- Result: 0 rows returned in 932ms
+-- At line 1:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 ORDER BY Salary DESC
+-- Result: 0 rows returned in 332ms
+-- At line 1:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 ORDER BY Salary DESC
+-- Result: 0 rows returned in 5ms
+-- At line 1:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 ORDER BY Salary DESC
+-- Result: 0 rows returned in 933ms
+-- At line 1:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 ORDER BY Salary DESC
+-- Result: 0 rows returned in 333ms
+-- At line 1:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 ORDER BY Salary DESC
+-- Result: 0 rows returned in 5ms
+-- EXECUTING ALL IN 'SQL 19'
+--
+-- At line 1:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 ORDER BY Salary DESC
+-- Result: 0 rows returned in 1252ms
+-- At line 1:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 ORDER BY Salary DESC
+-- Result: 0 rows returned in 652ms
+-- At line 1:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 ORDER BY Salary DESC
+-- Result: 0 rows returned in 325ms
+-- At line 1:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 ORDER BY Salary DESC
+-- Result: 0 rows returned in 5ms
+-- At line 1:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 ORDER BY Salary DESC
+-- Result: 0 rows returned in 1253ms
+-- At line 1:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 ORDER BY Salary DESC
+-- Result: 0 rows returned in 653ms
+-- At line 1:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 ORDER BY Salary DESC
+-- Result: 0 rows returned in 326ms
+-- At line 1:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 ORDER BY Salary DESC
+-- Result: 0 rows returned in 6ms
+-- EXECUTING ALL IN 'SQL 19'
+--
+-- At line 1:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 ORDER BY Salary DESC
+-- Result: 0 rows returned in 115676ms
+-- At line 1:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 ORDER BY Salary DESC
+-- Result: 0 rows returned in 115076ms
+-- At line 1:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 ORDER BY Salary DESC
+-- Result: 0 rows returned in 114749ms
+-- At line 1:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 ORDER BY Salary DESC
+-- Result: 0 rows returned in 114429ms
+-- At line 1:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 ORDER BY Salary DESC;
+-- Result: 0 rows returned in 5ms
+-- At line 1:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 ORDER BY Salary DESC
+-- Result: 0 rows returned in 115678ms
+-- At line 1:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 ORDER BY Salary DESC
+-- Result: 0 rows returned in 115078ms
+-- At line 1:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 ORDER BY Salary DESC
+-- Result: 0 rows returned in 114750ms
+-- At line 1:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 ORDER BY Salary DESC
+-- Result: 0 rows returned in 114430ms
+-- At line 1:
+SELECT Employee_Name,'YES' FROM HR WHERE FromDiversityJobFairID =1 ORDER BY Salary DESC;
+-- Result: 0 rows returned in 6ms
+-- EXECUTING ALL IN 'SQL 19'
+--
+-- At line 1:
+=
+-- Result: 1 rows returned in 199917ms
+-- At line 1:
+  
+ 
+-- Result: 1 rows returned in 199318ms
+-- At line 1:
+x?C	 
+-- Result: 1 rows returned in 198991ms
+-- At line 1:
+  
+ 
+-- Result: 1 rows returned in 198671ms
+-- At line 1:
+
+-- Result: 1 rows returned in 84247ms
+-- At line 1:
+SELECT MAX (SALARY),FromDiversityJobFairID,Employee_Name from HR;
+-- Result: 1 rows returned in 7ms
+-- EXECUTING ALL IN 'SQL 20'
+--
+-- At line 1:
+SELECT count (Employee_Name) FROM HR WHERE TERND =1
+-- Result: no such column: TERND
+-- EXECUTING ALL IN 'SQL 20'
+--
+-- At line 1:
+SELECT count (Employee_Name) FROM HR WHERE Termd =1
+-- Result: 1 rows returned in 4ms
+-- EXECUTING ALL IN 'SQL 20'
+--
+-- At line 1:
+SELECT count (Employee_Name) FROM HR WHERE Termd ='1'
+-- Result: 1 rows returned in 3ms
+-- EXECUTING ALL IN 'SQL 21'
+--
+-- At line 1:
+SELECT COUNT(Employee_name), Position FROM HR ORDER BY Position
+-- Result: unrecognized token: ":"
+-- EXECUTING ALL IN 'SQL 21'
+--
+-- At line 1:
+SELECT COUNT(Employee_name), Position FROM HR GROUP BY Position ORDER BY Position
+-- Result: unrecognized token: ":"
+-- EXECUTING ALL IN 'SQL 21'
+--
+-- At line 1:
+SELECT COUNT(Employee_name), Position FROM HR GROUP BY Position ORDER BY Position
+-- Result: unrecognized token: ":"
+-- EXECUTING ALL IN 'SQL 21'
+--
+-- At line 1:
+SELECT COUNT(Employee_name), Position FROM HR GROUP BY Position ORDER BY Position
+-- Result: unrecognized token: ":"
+-- EXECUTING ALL IN 'SQL 21'
+--
+-- At line 1:
+SELECT COUNT(Employee_name), Position FROM HR GROUP BY Position ORDER BY Position;
+-- Result: 32 rows returned in 6ms
